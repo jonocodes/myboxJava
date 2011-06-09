@@ -1,7 +1,12 @@
 Mybox
 =====
-[https://github.com/mybox/mybox](https://github.com/mybox/mybox)  
-version 0.1.0 by Jono
+version 0.2.0 by Jono
+
+
+NOTE!
+-----
+**This is the original Java version of Mybox. It is now deprecated and no longer under development. For the latest version please see [https://github.com/mybox/myboxSharp](https://github.com/mybox/myboxSharp)**
+
 
 
 Introduction
@@ -56,8 +61,8 @@ Run the setup program to configure the client
 Run the client
 
       $ bash mybox.bash Client
-      
-You should now have a ~/Mybox directory which is your synchronized directory.
+
+You should now have a ~/Mybox directory which will be synchronized to the server.
 
 If you want the GUI to launch when you start a desktop session, add the following to your session startup script
 
