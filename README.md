@@ -1,12 +1,11 @@
+NOTE!
+-----
+**This is the original Java version of Mybox. It is now deprecated and no longer under development. For the latest version please see [https://github.com/jonocodes/mybox](https://github.com/jonocodes/mybox)**
+
+
 Mybox
 =====
 version 0.2.0 by Jono
-
-
-NOTE!
------
-**This is the original Java version of Mybox. It is now deprecated and no longer under development. For the latest version please see [https://github.com/mybox/myboxSharp](https://github.com/mybox/myboxSharp)**
-
 
 
 Introduction
